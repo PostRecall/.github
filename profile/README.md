@@ -68,7 +68,6 @@
 
 - 오답 포스트잇 화면&오답 화면
 
-|![image](https://github.com/PostRecall/.github/assets/113195498/7c3a9eb4-cfe2-46bf-b93d-40fb17b9d9ba)|![image](https://github.com/PostRecall/.github/assets/113195498/a73b5deb-36d2-40ad-bc51-0538d59d0f26)
-|
+|![image](https://github.com/PostRecall/.github/assets/113195498/7c3a9eb4-cfe2-46bf-b93d-40fb17b9d9ba)|![image](https://github.com/PostRecall/.github/assets/113195498/da1ae9dd-5526-4670-8ebd-9c16b0e899eb)|
 |:---:|:---:|
 |오답 포스트잇 화면|오답 화면|
