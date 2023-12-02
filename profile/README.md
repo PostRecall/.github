@@ -65,3 +65,10 @@
 |![image](https://github.com/PostRecall/.github/assets/113195498/35a6409a-41bc-43e7-b006-4225ed889026)|![image](https://github.com/PostRecall/.github/assets/113195498/2593b3cb-391f-4471-bcb2-dae9874dc3ad)|
 |:---:|:---:|
 |퀴즈 포스트잇 화면|퀴즈 화면|
+
+- 오답 포스트잇 화면&오답 화면
+
+|![image](https://github.com/PostRecall/.github/assets/113195498/7c3a9eb4-cfe2-46bf-b93d-40fb17b9d9ba)|![image](https://github.com/PostRecall/.github/assets/113195498/a73b5deb-36d2-40ad-bc51-0538d59d0f26)
+|
+|:---:|:---:|
+|오답 포스트잇 화면|오답 화면|
