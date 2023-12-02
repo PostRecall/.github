@@ -42,9 +42,9 @@
 
 - 로그인&회원가입 화면
 
-![로그인화면](https://github.com/PostRecall/.github/assets/113195498/0344864b-5024-4e31-acfc-929876af1b0d)|![홈화면](https://github.com/PostRecall/.github/assets/113195498/bf684e98-2273-48a1-9a1a-14a81bbfa38e)|
+![로그인화면](https://github.com/PostRecall/.github/assets/113195498/0344864b-5024-4e31-acfc-929876af1b0d)|![image](https://github.com/PostRecall/.github/assets/113195498/ef55af65-6314-42b5-887d-5a2daace98bb)|
 |:---:|:---:|
-|로그인화면|홈화면|
+|로그인화면|회원가입 화면|
 
 
 
