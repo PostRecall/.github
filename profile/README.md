@@ -16,18 +16,17 @@
 
 
 ## 설명
-| <div style="text-align:center">![로그인화면](https://github.com/PostRecall/.github/assets/113195498/0344864b-5024-4e31-acfc-929876af1b0d)</div> | <div style="text-align:center">![홈화면](https://github.com/PostRecall/.github/assets/113195498/bf684e98-2273-48a1-9a1a-14a81bbfa38e)</div> |
-| --- | --- |
-| <div style="text-align:center">로그인화면</div> | <div style="text-align:center">홈화면</div> |
-| <div style="text-align:center">![타이핑화면](https://github.com/PostRecall/.github/assets/113195498/1f2f22a4-61bb-4e8c-a9c2-09c645b829d7)</div> | <div style="text-align:center">![각 분야별 화면](https://github.com/PostRecall/.github/assets/113195498/2d458453-9301-4768-96c5-f0f74890c366)</div> |
-| <div style="text-align:center">타이핑화면</div> | <div style="text-align:center">각 분야별 화면</div> |
-| <div style="text-align:center">![사용자 설정 화면](https://github.com/PostRecall/.github/assets/113195498/f6a78f8e-b869-47f2-aaeb-362f68601bfc)</div> | <div style="text-align:center">![이용안내 화면](https://github.com/PostRecall/.github/assets/113195498/e75e502f-deec-4bf9-9266-622165e1a532)</div> |
-| <div style="text-align:center">사용자 설정 화면</div> | <div style="text-align:center">이용안내 화면</div> |
+-배경
+포스트잇 공부법에 대해 아십니까? 포스트잇 공부법은 공부를 돕기 위해 포스트잇을 활용하는 방법입니다. 이 방법을 사용하면 어려운 개념이나 자주 틀리는 문제의 해답을 포스트잇에 적어두고 필요할 때 참고할 수 있어 학습 효율을 높일 수 있습니다.
+
+그러나 포스트잇 공부법을 사용하면서 몇 가지 문제점을 발견했습니다.
+1. 포스트잇이 구겨지거나 분실되기 쉽다는 문제가 있습니다.
+2. 포스트잇이 너무 분산되어 있어 정리와 관리가 어렵습니다.
+3. 포스트잇은 특정 장소에만 붙어 있어 어디서든 학습 자료를 쉽게 찾기 어렵습니다.
 
 
+이러한 문제점을 해결하기 위해 포스트잇 공부법을 디지털 환경으로 옮길 생각입니다. 이를 통해 학습 자료를 중앙화하고 효율적으로 관리할 수 있는 모바일 앱을 개발하려고 합니다. 이 앱은 학습자가 언제 어디서나 학습을 할 수 있도록 도와주며, 포스트잇의 한계를 극복하여 더 효과적인 학습을 가능하게 할 것입니다.<br>
 
-
-포스트잇 공부법의 문제점을 모아 해결하기 위해 디지털 환경으로 옮겨보았습니다. 학습 자료를 중앙화하고 효율적으로 관리할 수 있고, 이를 통해 학습자가 어디서나 학습을 할 수 있도록 도와주며 포스트잇의 한계를 극복하여 더 효과적은 학습을 가능하게 할 것입니다  <br>
 - 개념,오답,퀴즈 중 원하는걸 선택하라! ✅<br>
 사용자는 자신이 어떤 부분에서 취약한지를 선택하고 개념, 오답, 퀴즈 중 자신이 원하는 카테고리를 선택하여 거기에 맞는 포스트잇 공부법으로 학습을 할 수 있습니다.
 - 중요도를 선택하라! ⭐<br>
