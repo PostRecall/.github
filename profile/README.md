@@ -9,10 +9,10 @@
   - [주요 화면](#주요-화면)
 
 ## 개요
-- 프로젝트 이름: PostRecall📝
-- 프로젝트 지속기간: 2023.08-2023.11
-- 개발 엔진 및 언어: HTML,JS,CSS,Node.js,MariaDB
-- 멤버: <a href="https://github.com/seyeonparkk">박세연</a>(프론트), <a href="https://github.com/mic050r">임지현</a>(백엔드)
+### 프로젝트 이름: PostRecall📝
+### 프로젝트 지속기간: 2023.08-2023.11
+### 개발 엔진 및 언어: HTML,JS,CSS,Node.js,MariaDB
+### 멤버: <a href="https://github.com/seyeonparkk">박세연</a>(프론트), <a href="https://github.com/mic050r">임지현</a>(백엔드)
 
 
 ## 설명
