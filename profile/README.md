@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/PostRecall/.github/assets/113195498/002f1dcb-0d39-4be0-a9a8-f05852f58abb)<div align="center">
 <h2>[2023] POSTRECALL 제작 📝</h2>
 학습자들이 퀴즈, 개념 정리, 오답 노트를 포스트잇 형식으로 작성하고 중요도를 부여하여 효율적으로 공부하고,<br> 타이핑으로 개념을 익히며 스티커 메모를 활용해 시각적으로 관리할 수 있는 학습 도우미 앱🍀
 </div>
@@ -16,9 +16,10 @@ PostRecall📝
 ### 개발 엔진 및 언어
 HTML,JS,CSS,Node.js,MariaDB
 ### 멤버
-|<img src="https://github.com/PostRecall/.github/assets/113195498/4b1427da-ebde-41da-b3e6-03eb87bb9b49" width="150">|<img src="https://github.com/PostRecall/.github/assets/113195498/2593b3cb-391f-4471-bcb2-dae9874dc3ad" width="150">|
+|<img src="https://github.com/PostRecall/.github/assets/113195498/4b1427da-ebde-41da-b3e6-03eb87bb9b49" width="130">|<img src="https://github.com/PostRecall/.github/assets/113195498/ca9ced0d-6184-4e97-a757-8895c3895ca8" width="130">|
 |:---:|:---:|
 |<a href="https://github.com/seyeonparkk">박세연</a>|<a href="https://github.com/mic050r">임지현</a>|
+
 
 
 
