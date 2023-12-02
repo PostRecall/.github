@@ -21,7 +21,6 @@
 |:---:|:---:|
 |로그인화면|홈화면|
 |![image](https://github.com/PostRecall/.github/assets/113195498/1f2f22a4-61bb-4e8c-a9c2-09c645b829d7)|![image](https://github.com/PostRecall/.github/assets/113195498/2d458453-9301-4768-96c5-f0f74890c366)|
-|:---:|:---:|
 |타이핑화면|각 분야별 화면|
 |![image](https://github.com/PostRecall/.github/assets/113195498/f6a78f8e-b869-47f2-aaeb-362f68601bfc)|![image](https://github.com/PostRecall/.github/assets/113195498/e75e502f-deec-4bf9-9266-622165e1a532)|
 |:---:|:---:|
