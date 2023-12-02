@@ -42,8 +42,10 @@
 
 - 로그인&회원가입 화면
 
-|![image](https://github.com/PostRecall/.github/assets/113195498/f4b25027-59a1-4bc9-8576-bb86a5970694)|![image](https://github.com/PostRecall/.github/assets/113195498/ac5e7697-016e-42c9-b26e-14fe323f50db)|
-|로그인 화면|회원가입 화면|
+![로그인화면](https://github.com/PostRecall/.github/assets/113195498/0344864b-5024-4e31-acfc-929876af1b0d)|![홈화면](https://github.com/PostRecall/.github/assets/113195498/bf684e98-2273-48a1-9a1a-14a81bbfa38e)|
+|:---:|:---:|
+|로그인화면|홈화면|
+
 
 
 - 홈화면&타이핑 화면
