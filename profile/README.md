@@ -17,15 +17,14 @@
 
 
 ## 설명
-|![1](https://github.com/PostRecall/.github/assets/113195498/0344864b-5024-4e31-acfc-929876af1b0d)|![image](https://github.com/PostRecall/.github/assets/113195498/bf684e98-2273-48a1-9a1a-14a81bbfa38e)|
+|![로그인화면](https://github.com/PostRecall/.github/assets/113195498/0344864b-5024-4e31-acfc-929876af1b0d)|![홈화면](https://github.com/PostRecall/.github/assets/113195498/bf684e98-2273-48a1-9a1a-14a81bbfa38e)|
 |:---:|:---:|
 |로그인화면|홈화면|
-|![image](https://github.com/PostRecall/.github/assets/113195498/1f2f22a4-61bb-4e8c-a9c2-09c645b829d7)|![image](https://github.com/PostRecall/.github/assets/113195498/2d458453-9301-4768-96c5-f0f74890c366)|
-|:---:|:---:|
+|![타이핑화면](https://github.com/PostRecall/.github/assets/113195498/1f2f22a4-61bb-4e8c-a9c2-09c645b829d7)|![각 분야별 화면](https://github.com/PostRecall/.github/assets/113195498/2d458453-9301-4768-96c5-f0f74890c366)|
 |타이핑화면|각 분야별 화면|
-|![image](https://github.com/PostRecall/.github/assets/113195498/f6a78f8e-b869-47f2-aaeb-362f68601bfc)|![image](https://github.com/PostRecall/.github/assets/113195498/e75e502f-deec-4bf9-9266-622165e1a532)|
-|:---:|:---:|
+|![사용자 설정 화면](https://github.com/PostRecall/.github/assets/113195498/f6a78f8e-b869-47f2-aaeb-362f68601bfc)|![이용안내 화면](https://github.com/PostRecall/.github/assets/113195498/e75e502f-deec-4bf9-9266-622165e1a532)|
 |사용자 설정 화면|이용안내 화면|
+
 
 포스트잇 공부법의 문제점을 모아 해결하기 위해 디지털 환경으로 옮겨보았습니다. 학습 자료를 중앙화하고 효율적으로 관리할 수 있고, 이를 통해 학습자가 어디서나 학습을 할 수 있도록 도와주며 포스트잇의 한계를 극복하여 더 효과적은 학습을 가능하게 할 것입니다  <br>
 - 개념,오답,퀴즈 중 원하는걸 선택하라! ✅<br>
