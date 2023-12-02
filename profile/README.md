@@ -51,9 +51,11 @@
 - 홈화면&타이핑 화면
 
 |![image](https://github.com/PostRecall/.github/assets/113195498/3ede884a-ab84-43dd-8181-6671495d63d8)|![image](https://github.com/PostRecall/.github/assets/113195498/ae41a065-9cbd-4e41-a93e-e6bd5dd65615)|
+|:---:|:---:|
 |홈 화면|타이핑 화면|
 
 - 홈화면&타이핑 화면
 
 |![image](https://github.com/PostRecall/.github/assets/113195498/3ede884a-ab84-43dd-8181-6671495d63d8)|![image](https://github.com/PostRecall/.github/assets/113195498/ae41a065-9cbd-4e41-a93e-e6bd5dd65615)|
+|:---:|:---:|
 |홈 화면|타이핑 화면|
