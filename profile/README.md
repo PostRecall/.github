@@ -16,7 +16,10 @@ PostRecall📝
 ### 개발 엔진 및 언어
 HTML,JS,CSS,Node.js,MariaDB
 ### 멤버
-<a href="https://github.com/seyeonparkk">박세연</a>(프론트), <a href="https://github.com/mic050r">임지현</a>(백엔드)
+|![세연1](https://github.com/PostRecall/.github/assets/113195498/4b1427da-ebde-41da-b3e6-03eb87bb9b49)|![image](https://github.com/PostRecall/.github/assets/113195498/2593b3cb-391f-4471-bcb2-dae9874dc3ad)|
+|:---:|:---:|
+|<a href="https://github.com/seyeonparkk">박세연</a>|<a href="https://github.com/mic050r">임지현</a>|
+
 
 
 ## 설명
