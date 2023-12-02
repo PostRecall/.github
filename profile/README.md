@@ -15,16 +15,15 @@
 - 멤버: <a href="https://github.com/seyeonparkk">박세연</a>(프론트), <a href="https://github.com/mic050r">임지현</a>(백엔드)
 
 
-<div align="center">
 ## 설명
-|![로그인화면](https://github.com/PostRecall/.github/assets/113195498/0344864b-5024-4e31-acfc-929876af1b0d)|![홈화면](https://github.com/PostRecall/.github/assets/113195498/bf684e98-2273-48a1-9a1a-14a81bbfa38e)|
-|:---:|:---:|
-|로그인화면|홈화면|
-|![타이핑화면](https://github.com/PostRecall/.github/assets/113195498/1f2f22a4-61bb-4e8c-a9c2-09c645b829d7)|![각 분야별 화면](https://github.com/PostRecall/.github/assets/113195498/2d458453-9301-4768-96c5-f0f74890c366)|
-|타이핑화면|각 분야별 화면|
-|![사용자 설정 화면](https://github.com/PostRecall/.github/assets/113195498/f6a78f8e-b869-47f2-aaeb-362f68601bfc)|![이용안내 화면](https://github.com/PostRecall/.github/assets/113195498/e75e502f-deec-4bf9-9266-622165e1a532)|
-|사용자 설정 화면|이용안내 화면|
-</div>
+| <div style="text-align:center">![로그인화면](https://github.com/PostRecall/.github/assets/113195498/0344864b-5024-4e31-acfc-929876af1b0d)</div> | <div style="text-align:center">![홈화면](https://github.com/PostRecall/.github/assets/113195498/bf684e98-2273-48a1-9a1a-14a81bbfa38e)</div> |
+| --- | --- |
+| <div style="text-align:center">로그인화면</div> | <div style="text-align:center">홈화면</div> |
+| <div style="text-align:center">![타이핑화면](https://github.com/PostRecall/.github/assets/113195498/1f2f22a4-61bb-4e8c-a9c2-09c645b829d7)</div> | <div style="text-align:center">![각 분야별 화면](https://github.com/PostRecall/.github/assets/113195498/2d458453-9301-4768-96c5-f0f74890c366)</div> |
+| <div style="text-align:center">타이핑화면</div> | <div style="text-align:center">각 분야별 화면</div> |
+| <div style="text-align:center">![사용자 설정 화면](https://github.com/PostRecall/.github/assets/113195498/f6a78f8e-b869-47f2-aaeb-362f68601bfc)</div> | <div style="text-align:center">![이용안내 화면](https://github.com/PostRecall/.github/assets/113195498/e75e502f-deec-4bf9-9266-622165e1a532)</div> |
+| <div style="text-align:center">사용자 설정 화면</div> | <div style="text-align:center">이용안내 화면</div> |
+
 
 
 
