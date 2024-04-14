@@ -33,7 +33,7 @@ PostRecall📝
 ![NODE.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ### 1-5. 멤버
-|<img src="https://github.com/PostRecall/.github/assets/113195498/4b1427da-ebde-41da-b3e6-03eb87bb9b49" width="130">|<img src="https://github.com/PostRecall/.github/assets/113195498/ca9ced0d-6184-4e97-a757-8895c3895ca8" width="130">|
+|<img src="https://github.com/PostRecall/.github/assets/113195498/4b1427da-ebde-41da-b3e6-03eb87bb9b49" width="130">|<img src="https://github.com/PostRecall/.github/assets/103114387/84ed0eee-f8bf-4908-b76a-8bc05510e956" width="130">|
 |:---:|:---:|
 |<a href="https://github.com/seyeonparkk">박세연</a>|<a href="https://github.com/mic050r">임지현</a>|
 
