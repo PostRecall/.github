@@ -5,7 +5,7 @@
 
 <div align="center">
   <p>
-    <a href="">📘노션</a>
+    <a href="https://storm-maraca-f6d.notion.site/9655604cec554358b4669c28467b7270?v=f3efa33cee574725a8bb68e45f53c2b7&pvs=4">📘노션</a>
     &nbsp; | &nbsp; 
     <a href="https://www.figma.com/file/ZsdWXA6dkvcbYSBJ2lr1Ha/PostRecall?type=design&node-id=0%3A1&mode=design&t=Pohyj3sKNMqumDOf-1">🎨피그마</a>
     &nbsp; | &nbsp; 
